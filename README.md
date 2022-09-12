@@ -7,4 +7,4 @@ Terminal based Chatbot :
 ![](TerminalChatbot.png)
 
 UI Based Chatbot :
-![](UIChatbot.png)
+![](UIChatBot.png)
